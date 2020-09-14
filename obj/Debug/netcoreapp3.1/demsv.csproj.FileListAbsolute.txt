@@ -1,0 +1,13 @@
+D:\baitap\demsv\bin\Debug\netcoreapp3.1\demsv.exe
+D:\baitap\demsv\bin\Debug\netcoreapp3.1\demsv.deps.json
+D:\baitap\demsv\bin\Debug\netcoreapp3.1\demsv.runtimeconfig.json
+D:\baitap\demsv\bin\Debug\netcoreapp3.1\demsv.runtimeconfig.dev.json
+D:\baitap\demsv\bin\Debug\netcoreapp3.1\demsv.dll
+D:\baitap\demsv\bin\Debug\netcoreapp3.1\demsv.pdb
+D:\baitap\demsv\obj\Debug\netcoreapp3.1\demsv.csprojAssemblyReference.cache
+D:\baitap\demsv\obj\Debug\netcoreapp3.1\demsv.AssemblyInfoInputs.cache
+D:\baitap\demsv\obj\Debug\netcoreapp3.1\demsv.AssemblyInfo.cs
+D:\baitap\demsv\obj\Debug\netcoreapp3.1\demsv.csproj.CoreCompileInputs.cache
+D:\baitap\demsv\obj\Debug\netcoreapp3.1\demsv.dll
+D:\baitap\demsv\obj\Debug\netcoreapp3.1\demsv.pdb
+D:\baitap\demsv\obj\Debug\netcoreapp3.1\demsv.genruntimeconfig.cache
